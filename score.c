@@ -2,7 +2,7 @@
 void main() 
 {
     int n;
-    char name[100];
+    char name[20];
     int runs, totalRuns = 0;
     printf("Enter the number of players: ");
     scanf("%d", &n);
